@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "myblog-development-ed53a",
+    "dev": "myblog-development-ed53a",
+    "prod": "myblog-production"
+  }
+}
